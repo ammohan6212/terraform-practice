@@ -12,5 +12,4 @@ variable "zone" {
   type    = string
   default = "us-central1-c"
 }
-
 # eval "$(ssh-agent -s)" && ssh-add ~/.ssh/ammohan6212
