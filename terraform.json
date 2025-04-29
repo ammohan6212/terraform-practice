@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ringed-almanac-457610-p1",
+  "private_key_id": "b559d670109cfd804ca7ba9e5b9aad529b90766f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5ZtdVdzTk8Fct\nOIiRtCpmEgkFf7Hunoy9xAB70JpYj3VNZ76iuwS6LA3ge0igbF9Hp83KQS2AlULC\ni2iGj0BhLdA2nPw1wrI3e0beddhjKLd8GgMRodP+HDVBQSsxsAoMz5PWOHzZ6JFJ\ntDC9v7WTsSrBvDrndikLi/s0TnFz9xU5h/FOg/WrAB2cTwMvZnpcAp5XVbjswT7r\nLEHq0UFVBZiR5bmZP015hRxj5UyOZ7EOhN4dgopfwsyoQ5rcMBuRXgw/PzWpufp7\nh8G2u1qaNbl9I1ScrF0N4UegtLNxGhKwAivsOc4AiRRlrcRjAggVxpxfITrTFGfx\nlmEXvdSHAgMBAAECggEAGAbAzx2UqDqRQZX69M7hU7rwmlrTBzZazNjSqzj8V4+3\nxuEz7kjIMww0fCvd3JROwK15WMWbjPdK4IVKdW2pDS7vtbQgZyMlD1WVeIzTDv6e\n0KFaVnWfUGX9bMhyPY0vsDtSUEefvmmKMn/8dQqcEFi8TsEC7S394bYxRrUHtNxO\n10DXkzfkNS+Pc6jgXn2BLNWTBykSs4mVgrwaljV1hUK9l9bFXGWlORmCDQKCdupP\nRKAEPmxUue6xbSKv5//kMIzGSbgsMciYI66w673KAREDwRegXpAuUMGs8EWFq565\nw372o2uA7bLax6MhqJ2rL0OtIlg2fj296dyX6+tLAQKBgQDbKJ9AtCw1m2cTeIlw\nzXrvA41z+tzZpBTYMEQOsNlvVbl8vF4wKF1vyS3kNXU7602nayZKfvn34o1yIfFU\nMFW/bxsvbVPUhyTgbUOoaDkRzaZ37KJZi4oC44SxNARyu/lTGBzDQrmzQ2DYwzxs\n+z/P3/z8PPdQ9k/U6pQ3AsavBwKBgQDYkYGbl37NUj/zC0GMAuoyr7KR4OKOTYSN\nLqptsYL/Cd6TTSdoEXN3LpXhkQRSTgQtx+x2EP9MhT5qajml/cGTu79qiPX2SAaX\nKzU4bkmvOj9alFnAX7LzBRNhd0Et9GKRaIzvx3zmGqKv+DsbMDI8KSl/KC6HvCWJ\nua2ALvjOgQKBgBLKSdUvXXb/KvhFZmtQgtDJWjBues8CPXNHuB4WVZ4xGGU0dVLl\nsxUph5DAcJvBkfffvPm4J1B0kTIO7PUN69ws94S6d+yJ5cSEOb/Pp8z59+LiXA0X\nZK7YuQDEd/kqWrcgIx8usmNHTJ9pJd4mMJNvHe62f3HmnHOh5TFOQKCzAoGAKfeo\nghpNfERgGB0qSpOWBtR9aj+GJ8Vl1mYgqLkphXrIIwtkg4o+Me5ZJSkRCVINBUIk\n1IxerNl1SvHi0gPmq1ZKtb5sy5kRjeHVomXc6ZQECu2Mpvbkmqt1IgIWI22kXEFC\nboTd80leFXOpII+qbHYdkIKc4bjYHWRZ9ukjVgECgYA477pEnf3Jmdm6WhX1jv9K\nb+9EpAFRZraqiIFNIgVvZzyea6/KbLYFaOpXcjZihnaRVHOvg/mrCbL+YCbk513g\n1EhPRzeeinFRmUo+7yo+c/WbU/0SPmEn6hmAsqqRqdT9UAWoRSovoiP7y8lUohad\nMHHxmUfmJXHcE+4sv+NWOQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mohan-terr@ringed-almanac-457610-p1.iam.gserviceaccount.com",
+  "client_id": "100515613470035068202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mohan-terr%40ringed-almanac-457610-p1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
